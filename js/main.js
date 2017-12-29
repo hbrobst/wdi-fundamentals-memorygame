@@ -1,3 +1,4 @@
+
 var cards = ['queen', 'queen', 'king', 'king'];
 var cardsInPlay = [];
 var cardOne = cards[0];
@@ -19,3 +20,4 @@ if (cardsInPlay.length === 2) {
 		alert('sorry try again')
 	}
 }
+
